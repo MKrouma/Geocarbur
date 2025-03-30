@@ -1,0 +1,6425 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-02-18T17:38:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/243778772",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Aghien",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "is_in": "Aghien;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Shell Carrefour Duncan",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9974514,
+          5.378262
+        ]
+      },
+      "id": "node/243778772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/729781766",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Vieux Cocody",
+        "amenity": "fuel",
+        "brand": "Pétro Ivoire",
+        "is_in": "Vieux Cocody;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Pétro Ivoire",
+        "operator": "Pétro Ivoire SA",
+        "shop": "yes",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0017072,
+          5.352525
+        ]
+      },
+      "id": "node/729781766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/773848817",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Angré",
+        "amenity": "fuel",
+        "brand": "Pétro Ivoire",
+        "fuel:diesel": "no",
+        "is_in": "Angré;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Pétro Ivoire Angré",
+        "operator": "Pétro Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9909528,
+          5.404871
+        ]
+      },
+      "id": "node/773848817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/773848861",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Angré",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell Angré",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.990483,
+          5.4047311
+        ]
+      },
+      "id": "node/773848861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775786955",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Riviera 3",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "is_in": "Riviera 3;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Corlay Riviera 3",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9599233,
+          5.3549235
+        ]
+      },
+      "id": "node/775786955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775786969",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Bonoumin",
+        "amenity": "fuel",
+        "brand": "Total",
+        "is_in": "Bonoumin;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Total",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9658874,
+          5.3576657
+        ]
+      },
+      "id": "node/775786969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/844756874",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue I143",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Station Service Oilibya Riviéra-Palmeraie",
+        "operator": "Libya Oil Côte d’Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9598221,
+          5.3628568
+        ]
+      },
+      "id": "node/844756874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/845967791",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total Sitarail",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0138028,
+          5.3011947
+        ]
+      },
+      "id": "node/845967791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1230532101",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Station Service Oilibya Boulevard Valéry Giscard d’Estaing",
+        "operator": "Libya Oil Côte d’Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9627005,
+          5.2712409
+        ]
+      },
+      "id": "node/1230532101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1332317275",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "fuel",
+        "brand": "Pétroci",
+        "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Pétroci 7e Tranche",
+        "operator": "Société Nationale d'Opérations Pétrolières de Côte d'Ivoire (PETROCI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9879719,
+          5.3786212
+        ]
+      },
+      "id": "node/1332317275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1332317320",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Total",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9894808,
+          5.3613989
+        ]
+      },
+      "id": "node/1332317320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1332348015",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Gendarmerie Agban",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "is_in": "Gendarmerie Agban;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Total Sococé",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9997589,
+          5.371933
+        ]
+      },
+      "id": "node/1332348015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1335615290",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Station Shell Boulevard Nanan Yamousso",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0055809,
+          5.3092527
+        ]
+      },
+      "id": "node/1335615290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1838660082",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "compressed_air": "yes",
+        "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9876891,
+          5.384996
+        ]
+      },
+      "id": "node/1838660082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1951724383",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "name": "Station Service Corlay",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9690914,
+          5.2893861
+        ]
+      },
+      "id": "node/1951724383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1951889680",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9849263,
+          5.3082492
+        ]
+      },
+      "id": "node/1951889680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1951889681",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9844409,
+          5.3084282
+        ]
+      },
+      "id": "node/1951889681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1955209064",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Vieux Cocody",
+        "amenity": "fuel",
+        "brand": "Total",
+        "is_in": "Vieux Cocody;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Total Énergies",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9942903,
+          5.3489902
+        ]
+      },
+      "id": "node/1955209064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1955926192",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total Akwaba",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9622073,
+          5.268914
+        ]
+      },
+      "id": "node/1955926192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1959105583",
+        "amenity": "fuel",
+        "name": "Station service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0454266,
+          5.440022
+        ]
+      },
+      "id": "node/1959105583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2082753720",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9637728,
+          5.26013
+        ]
+      },
+      "id": "node/2082753720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2146112406",
+        "amenity": "fuel",
+        "brand": "Pétro Ivoire",
+        "name": "Station Service Pétro Ivoire Reine Pokou",
+        "operator": "Pétro Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0073574,
+          5.3048942
+        ]
+      },
+      "id": "node/2146112406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2388866089",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "building": "yes",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.016564,
+          5.3642515
+        ]
+      },
+      "id": "node/2388866089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2427123523",
+        "addr:city": "Attécoubé",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Afriquia",
+        "brand:wikidata": "Q2829178",
+        "brand:wikipedia": "en:Akwa Group",
+        "name": "Afriquia",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0318385,
+          5.3498862
+        ]
+      },
+      "id": "node/2427123523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2434356805",
+        "amenity": "fuel",
+        "fixme": "brand ?? / marque ??"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9770575,
+          5.3114105
+        ]
+      },
+      "id": "node/2434356805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440393404",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue Pierre et Marie Curie",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Total Zone 4",
+        "name:fr": "Total Zone 4",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9822665,
+          5.2938908
+        ]
+      },
+      "id": "node/2440393404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2443068038",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "fuel:diesel": "yes",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0621747,
+          5.3409004
+        ]
+      },
+      "id": "node/2443068038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446130592",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Afriquia",
+        "brand:wikidata": "Q2829178",
+        "name": "Afriquia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0630085,
+          5.3517568
+        ]
+      },
+      "id": "node/2446130592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446130593",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue O13",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "fuel:diesel": "yes",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0731638,
+          5.3399222
+        ]
+      },
+      "id": "node/2446130593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446130594",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "fuel:diesel": "yes",
+        "name": "Total Yop Selmer",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0640222,
+          5.3406146
+        ]
+      },
+      "id": "node/2446130594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2446130595",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total Yop Bel Air",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0635814,
+          5.3482626
+        ]
+      },
+      "id": "node/2446130595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2447215739",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "building": "yes",
+        "name": "Station Service Corlay",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0178637,
+          5.3544055
+        ]
+      },
+      "id": "node/2447215739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2459639206",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Riviera 2",
+        "amenity": "fuel",
+        "brand": "TotalEnergies",
+        "brand:wikidata": "Q154037",
+        "is_in": "Riviéra 2;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "TotalEnergies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9787786,
+          5.3528278
+        ]
+      },
+      "id": "node/2459639206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2459639208",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Riviera 1",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "is_in": "Riviéra 1;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9762171,
+          5.3396006
+        ]
+      },
+      "id": "node/2459639208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2460318573",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue L34",
+        "amenity": "fuel",
+        "brand": "Pétro Ivoire",
+        "building": "yes",
+        "name": "Pétro Ivoire",
+        "operator": "Pétro-Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0631462,
+          5.3463515
+        ]
+      },
+      "id": "node/2460318573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2460519997",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue P134",
+        "amenity": "fuel",
+        "brand": "Pétroci",
+        "name": "Pétroci",
+        "operator": "Société Nationale d'Opérations Pétrolières de Côte d'Ivoire (PETROCI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0731592,
+          5.3434723
+        ]
+      },
+      "id": "node/2460519997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2460536500",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "building": "yes",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0739702,
+          5.3515339
+        ]
+      },
+      "id": "node/2460536500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2465633354",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "name": "Corlay Autoroute du Nord",
+        "operator": "Corlay Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0230248,
+          5.3621813
+        ]
+      },
+      "id": "node/2465633354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468319902",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "not:brand:wikidata": "Q1273376",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0100769,
+          5.4213988
+        ]
+      },
+      "id": "node/2468319902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468321690",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0134215,
+          5.4182563
+        ]
+      },
+      "id": "node/2468321690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468321944",
+        "amenity": "fuel",
+        "fixme": "brand ?? / marque ??"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0072592,
+          5.4151711
+        ]
+      },
+      "id": "node/2468321944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468322181",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell Dokui",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0065847,
+          5.4057437
+        ]
+      },
+      "id": "node/2468322181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2468324405",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Boulevard des Martyrs",
+        "addr:suburb": "Angré",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "is_in": "Angré;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Corlay",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9918057,
+          5.397626
+        ]
+      },
+      "id": "node/2468324405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2475615303",
+        "FIXME": "brand ?? / marque ??",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9880979,
+          5.3039932
+        ]
+      },
+      "id": "node/2475615303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2493732800",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Oilibya",
+        "name:ar": "أويليبيا",
+        "operator": "Libya Oil Côte d’Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9546512,
+          5.2972467
+        ]
+      },
+      "id": "node/2493732800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2493750341",
+        "amenity": "fuel",
+        "brand": "Pétro Ivoire",
+        "name": "Station Service Pétro Ivoire",
+        "opening_hours": "24/7",
+        "operator": "Pétro Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9506904,
+          5.299625
+        ]
+      },
+      "id": "node/2493750341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2682021331",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0993139,
+          5.3547679
+        ]
+      },
+      "id": "node/2682021331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2685468220",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue Principale du Maroc",
+        "amenity": "fuel",
+        "brand": "Pétroci",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Station Service Pétroci",
+        "operator": "Société Nationale d'Opérations Pétrolières de Côte d'Ivoire (PETROCI)",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0999213,
+          5.3463392
+        ]
+      },
+      "id": "node/2685468220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2685817330",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total Yop Banco nord",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0909565,
+          5.3665453
+        ]
+      },
+      "id": "node/2685817330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2685885360",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "E.Leclerc",
+        "brand:wikidata": "Q1273376",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Station Service Pétro Ivoire Bonikro",
+        "operator": "Pétro Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1037487,
+          5.3507676
+        ]
+      },
+      "id": "node/2685885360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2686168556",
+        "amenity": "fuel",
+        "brand": "Ola Energy",
+        "name": "Ola Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0027718,
+          5.3096451
+        ]
+      },
+      "id": "node/2686168556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2686168570",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "TotalEnergies",
+        "brand:wikidata": "Q154037",
+        "name": "Total Énergies Autoroute du Nord",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0760448,
+          5.3608816
+        ]
+      },
+      "id": "node/2686168570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2686168576",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0791148,
+          5.3620056
+        ]
+      },
+      "id": "node/2686168576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2686168579",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0802792,
+          5.3618883
+        ]
+      },
+      "id": "node/2686168579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2686213774",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Shell Boulevard Valéry Giscard d'Estaing",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9503931,
+          5.2481817
+        ]
+      },
+      "id": "node/2686213774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2686213777",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Shell Boulevard Valéry Giscard d'Estaing",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9606103,
+          5.2635107
+        ]
+      },
+      "id": "node/2686213777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2686213780",
+        "amenity": "fuel",
+        "brand": "Swann Oil",
+        "comment": "position is raw guess",
+        "name": "Station Swann Oil",
+        "operator": "Groupe Swann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9642334,
+          5.2735433
+        ]
+      },
+      "id": "node/2686213780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2686213808",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Station Shell Boulevard lagunaire",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0166582,
+          5.326627
+        ]
+      },
+      "id": "node/2686213808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2745346005",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total Avenue Franchet d'Esperey",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0175938,
+          5.322035
+        ]
+      },
+      "id": "node/2745346005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2745346025",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell Plateau",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.023044,
+          5.3257645
+        ]
+      },
+      "id": "node/2745346025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2763883113",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "IDC",
+        "name": "Station Service IDC",
+        "operator": "Ivoirienne d'hydrocarbures (IDC) SARL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9450243,
+          5.3054649
+        ]
+      },
+      "id": "node/2763883113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2763939890",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9464432,
+          5.3020238
+        ]
+      },
+      "id": "node/2763939890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2764778334",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "African Petroleum",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Station Service African Petroleum",
+        "operator": "African Petroleum Corp Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0852691,
+          5.3469181
+        ]
+      },
+      "id": "node/2764778334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2764885375",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Star Oil",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Station Star Oil Ananeraie",
+        "operator": "Star Oil Côte d'Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1024442,
+          5.35497
+        ]
+      },
+      "id": "node/2764885375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2770252739",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Station Shell Adiopodoumé",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1267674,
+          5.3374866
+        ]
+      },
+      "id": "node/2770252739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2778059461",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Boulevard de France",
+        "addr:suburb": "Vieux Cocody",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "is_in": "Vieux Cocody;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Shell Boulevard Thérèse Houphouët-Boigny",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0015083,
+          5.3353826
+        ]
+      },
+      "id": "node/2778059461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2835322099",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Ola Energy Autoroute d’Abobo",
+        "operator": "Ola Côte d’Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.029066,
+          5.3674107
+        ]
+      },
+      "id": "node/2835322099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2835322709",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0219411,
+          5.3833345
+        ]
+      },
+      "id": "node/2835322709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2835322716",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total Route Abobo",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0205762,
+          5.3866254
+        ]
+      },
+      "id": "node/2835322716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2835322767",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Vinko Pétroleum",
+        "name": "Station Service Vinko Pétroleum",
+        "operator": "Vinko Pétroleum SA Côte d'Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0055267,
+          5.41549
+        ]
+      },
+      "id": "node/2835322767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838076687",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total Palais des Sports",
+        "operator": "Total Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0037335,
+          5.2979775
+        ]
+      },
+      "id": "node/2838076687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2842428757",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0918803,
+          5.3397247
+        ]
+      },
+      "id": "node/2842428757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2842428762",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "check_date": "2024-05-29",
+        "fuel:diesel": "yes",
+        "name": "Ola Energy",
+        "opening_hours": "24/7",
+        "self_service": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0809301,
+          5.3691385
+        ]
+      },
+      "id": "node/2842428762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2842428800",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0691588,
+          5.4439163
+        ]
+      },
+      "id": "node/2842428800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2860009333",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "name": "Elf Lubrifiant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0800465,
+          5.3693002
+        ]
+      },
+      "id": "node/2860009333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2863565313",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Bonoumin",
+        "amenity": "fuel",
+        "brand": "Pétro Ivoire",
+        "is_in": "Bonoumin;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Pétro Ivoire",
+        "operator": "Pétro Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9777873,
+          5.3565878
+        ]
+      },
+      "id": "node/2863565313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2898918292",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "fuel",
+        "brand": "Total",
+        "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Shell Latrille",
+        "operator": "Vivo Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.993699,
+          5.3810667
+        ]
+      },
+      "id": "node/2898918292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2898931993",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "fuel",
+        "brand": "Pétroci",
+        "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Pétroci",
+        "operator": "Société Nationale d'Opérations Pétrolières de Côte d'Ivoire (PETROCI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9927402,
+          5.3854675
+        ]
+      },
+      "id": "node/2898931993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2898960226",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9781667,
+          5.2865121
+        ]
+      },
+      "id": "node/2898960226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2898982661",
+        "amenity": "fuel",
+        "brand": "Pétroci",
+        "name": "Station Service Pétroci",
+        "operator": "Société Nationale d'Opérations Pétrolières de Côte d'Ivoire (PETROCI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0058588,
+          5.3849271
+        ]
+      },
+      "id": "node/2898982661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2899052269",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Oilibya",
+        "name:ar": "أويليبيا",
+        "operator": "Libya Oil Côte d’Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0063261,
+          5.4003835
+        ]
+      },
+      "id": "node/2899052269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2899056627",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0061961,
+          5.4116755
+        ]
+      },
+      "id": "node/2899056627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2899062488",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total Dokui",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0062887,
+          5.4046572
+        ]
+      },
+      "id": "node/2899062488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2899086822",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0121506,
+          5.4343535
+        ]
+      },
+      "id": "node/2899086822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2899086940",
+        "amenity": "fuel",
+        "name": "elf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0126227,
+          5.4344176
+        ]
+      },
+      "id": "node/2899086940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2902909861",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "fixme": "brand ?? / marque ??"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.011963,
+          5.3711811
+        ]
+      },
+      "id": "node/2902909861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2934606170",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "IDC",
+        "name": "Station Service IDC",
+        "operator": "Ivoirienne d'hydrocarbures (IDC) SARL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0025942,
+          5.4154231
+        ]
+      },
+      "id": "node/2934606170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2978085242",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Pétro Ivoire",
+        "name": "Station Service Pétro Ivoire",
+        "operator": "Pétro Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0848409,
+          5.3596842
+        ]
+      },
+      "id": "node/2978085242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2978085243",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Total Yop Ananeraie",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0954163,
+          5.354898
+        ]
+      },
+      "id": "node/2978085243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3012619221",
+        "addr:city": "Marcory",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Boulevard du Gabon",
+        "amenity": "fuel",
+        "brand": "Pétroci",
+        "name": "Station Service Pétro ivoire Gabon",
+        "operator": "Société Nationale d'Opérations Pétrolières de Côte d'Ivoire (PETROCI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9750024,
+          5.2940123
+        ]
+      },
+      "id": "node/3012619221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3012619222",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell Ameca2",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9750227,
+          5.2936196
+        ]
+      },
+      "id": "node/3012619222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3012619224",
+        "FIXME": "brand ?? / marque ??",
+        "addr:street": "Boulevard du Gabon",
+        "amenity": "fuel",
+        "name": "Station shell RO Gabon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.97315,
+          5.2929813
+        ]
+      },
+      "id": "node/3012619224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3015623540",
+        "addr:city": "Treichville",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Boulevard Nanan Yamousso",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Shell Nanan Yamousso",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0040048,
+          5.3035943
+        ]
+      },
+      "id": "node/3015623540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3017000449",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "name": "Station AP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0228038,
+          5.3555067
+        ]
+      },
+      "id": "node/3017000449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3075124855",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0675953,
+          5.3284096
+        ]
+      },
+      "id": "node/3075124855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3131207970",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Anda Oil",
+        "name": "Anda Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0265938,
+          5.3555453
+        ]
+      },
+      "id": "node/3131207970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3136912483",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "name": "Corlay Boulevard de Marseille",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9951671,
+          5.2915362
+        ]
+      },
+      "id": "node/3136912483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3137227199",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Total Km 4",
+        "operator": "Total Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0025784,
+          5.2951315
+        ]
+      },
+      "id": "node/3137227199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3142598713",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Ola Energy Boulevard de Marseille",
+        "operator": "Libya Oil Côte d’Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0117992,
+          5.2990372
+        ]
+      },
+      "id": "node/3142598713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3144238432",
+        "addr:city": "Treichville",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Zone 3",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Station Service Oilibya Avenue Christiani",
+        "operator": "Libya Oil Côte d’Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0160975,
+          5.3090808
+        ]
+      },
+      "id": "node/3144238432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3144239850",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "name": "Corlay",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0081698,
+          5.2973048
+        ]
+      },
+      "id": "node/3144239850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3144240807",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Djorogobité",
+        "amenity": "fuel",
+        "brand": "Total",
+        "is_in": "Djorogobité;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Total",
+        "operator": "Total Côte d'Ivoire SA",
+        "source": "yahoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9635555,
+          5.3787261
+        ]
+      },
+      "id": "node/3144240807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3144242300",
+        "addr:city": "Treichville",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Zone 3",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Shell Avenue Christiani",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0165123,
+          5.3089077
+        ]
+      },
+      "id": "node/3144242300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3148797757",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue J60",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "fuel",
+        "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "OLA",
+        "official_name": "Oryx Rue des Jardins",
+        "operator": "OLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98952,
+          5.3659134
+        ]
+      },
+      "id": "node/3148797757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3170066461",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "name": "Station Service Corlay Plateau",
+        "operator": "Corlay Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0221738,
+          5.3243435
+        ]
+      },
+      "id": "node/3170066461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3170935273",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total Energies Martyrs",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0033771,
+          5.3429114
+        ]
+      },
+      "id": "node/3170935273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3198473830",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Station Shell Boulevard du Gabon",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9796661,
+          5.2962463
+        ]
+      },
+      "id": "node/3198473830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3237789963",
+        "amenity": "fuel",
+        "name": "Star Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0119412,
+          5.4178564
+        ]
+      },
+      "id": "node/3237789963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3291422172",
+        "FIXME": "brand ?? / marque ??",
+        "amenity": "fuel",
+        "fuel:diesel": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9956854,
+          5.4146278
+        ]
+      },
+      "id": "node/3291422172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3319169902",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell Le Paris",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0173826,
+          5.3231737
+        ]
+      },
+      "id": "node/3319169902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3321108719",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell Rue Pierre et Marie Curie",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9826761,
+          5.2941874
+        ]
+      },
+      "id": "node/3321108719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3321276255",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total Route zoo",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0159604,
+          5.3637581
+        ]
+      },
+      "id": "node/3321276255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323397149",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Station Service Total Yopougon CHU",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.084068,
+          5.3555239
+        ]
+      },
+      "id": "node/3323397149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3340942344",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9870223,
+          5.33665
+        ]
+      },
+      "id": "node/3340942344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3345555711",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Riviéra 3",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "fuel:diesel": "yes",
+        "is_in": "Riviéra 3;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Shell Sainte-Famille",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9676331,
+          5.3562293
+        ]
+      },
+      "id": "node/3345555711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3356207360",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9248537,
+          5.3741222
+        ]
+      },
+      "id": "node/3356207360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3367173433",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "IDC",
+        "name": "IDC Sococé",
+        "operator": "Ivoirienne d'hydrocarbures (IDC) SARL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9989138,
+          5.3727294
+        ]
+      },
+      "id": "node/3367173433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3367173434",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Shell Sortie Rue des Jardins",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9954899,
+          5.3544712
+        ]
+      },
+      "id": "node/3367173434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3367173435",
+        "addr:city": "Adjamé",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "is_in": "Adjamé;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Total Adjamé Sud",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0172571,
+          5.3495587
+        ]
+      },
+      "id": "node/3367173435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3369218915",
+        "amenity": "fuel",
+        "brand": "Vinko Pétroleum",
+        "name": "Station Service Vinko Pétroleum",
+        "operator": "Vinko Pétroleum SA Côte d'Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9373888,
+          5.3097268
+        ]
+      },
+      "id": "node/3369218915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3379911750",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "description": "« name » : « Yop » pour « Yopougon » et « ZI » pour « Zone Industrielle »",
+        "name": "Total Yop ZI",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0755896,
+          5.3783808
+        ]
+      },
+      "id": "node/3379911750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3390774924",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total Las Palmas",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9951315,
+          5.3805334
+        ]
+      },
+      "id": "node/3390774924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3390852457",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9317142,
+          5.3716833
+        ]
+      },
+      "id": "node/3390852457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3390852458",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total",
+        "operator": "Total Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9532676,
+          5.3636509
+        ]
+      },
+      "id": "node/3390852458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3390852459",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total",
+        "operator": "Total Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9461954,
+          5.3674244
+        ]
+      },
+      "id": "node/3390852459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3393024199",
+        "amenity": "fuel",
+        "brand": "First Pétroleum",
+        "name": "Station Service First Petroleum Riviéra 2",
+        "operator": "First Pétroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9761398,
+          5.3511837
+        ]
+      },
+      "id": "node/3393024199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3393024200",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Station Shell Riviéra 2",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9755488,
+          5.3482138
+        ]
+      },
+      "id": "node/3393024200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3393273197",
+        "amenity": "fuel",
+        "brand": "Pétro Ivoire",
+        "name": "Station Service Pétro Ivoire 7e tranche",
+        "operator": "Pétro Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9883089,
+          5.3805279
+        ]
+      },
+      "id": "node/3393273197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3395001015",
+        "FIXME": "brand ?? / marque ??",
+        "amenity": "fuel",
+        "name": "Ola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0163825,
+          5.4149148
+        ]
+      },
+      "id": "node/3395001015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3396916345",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total Boulevard du 7 Décembre",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9697998,
+          5.2881776
+        ]
+      },
+      "id": "node/3396916345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3396926919",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9694713,
+          5.2893047
+        ]
+      },
+      "id": "node/3396926919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402317699",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "full_name": "Ola Zone 2",
+        "name": "Ola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0017891,
+          5.2981661
+        ]
+      },
+      "id": "node/3402317699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402317700",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Shell Zone 2",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0013621,
+          5.2983671
+        ]
+      },
+      "id": "node/3402317700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3403288996",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0952107,
+          5.3654558
+        ]
+      },
+      "id": "node/3403288996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3404637537",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "E.Leclerc",
+        "brand:wikidata": "Q1273376",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.048148,
+          5.3592095
+        ]
+      },
+      "id": "node/3404637537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3406257968",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell Vridi",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0027327,
+          5.2677538
+        ]
+      },
+      "id": "node/3406257968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3406257969",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "E.Leclerc",
+        "brand:wikidata": "Q1273376",
+        "name": "Station Service Total Vridi",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0035635,
+          5.2685575
+        ]
+      },
+      "id": "node/3406257969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3419362732",
+        "amenity": "fuel",
+        "fixme": "brand ?? / marque ??",
+        "name": "Total Énergies - Port de Pêche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0086734,
+          5.2902319
+        ]
+      },
+      "id": "node/3419362732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3424170763",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9902992,
+          5.4211426
+        ]
+      },
+      "id": "node/3424170763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3424767190",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Shell de CHUT",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0018331,
+          5.2941682
+        ]
+      },
+      "id": "node/3424767190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3424817514",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9754719,
+          5.3893971
+        ]
+      },
+      "id": "node/3424817514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3504902427",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Station Service Oilibya Petit Bassam",
+        "operator": "Libya Oil Côte d’Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9717259,
+          5.2576745
+        ]
+      },
+      "id": "node/3504902427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3510614173",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "name": "Corlay Boulevard du Général de Gaulle",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0160839,
+          5.3154256
+        ]
+      },
+      "id": "node/3510614173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3510685040",
+        "amenity": "fuel",
+        "brand": "Swann Oil",
+        "name": "Station Swann Oil",
+        "operator": "Groupe Swann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.966328,
+          5.27684
+        ]
+      },
+      "id": "node/3510685040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3510685041",
+        "amenity": "fuel",
+        "brand": "Vinko Pétroleum",
+        "name": "Station Service Vinko Pétroleum Petit Bassam",
+        "operator": "Vinko Pétroleum SA Côte d'Ivoire",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9732798,
+          5.2567114
+        ]
+      },
+      "id": "node/3510685041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3528334546",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Station Elf Plateau",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.023768,
+          5.325989
+        ]
+      },
+      "id": "node/3528334546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3561513215",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "IDC",
+        "name": "Station Service IDC Koumassi",
+        "operator": "Ivoirienne d'hydrocarbures (IDC) SARL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9636107,
+          5.2838451
+        ]
+      },
+      "id": "node/3561513215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3561513216",
+        "addr:city": "Koumassi",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Pétroci",
+        "name": "Station Service Pétroci Koumassi",
+        "operator": "Société Nationale d'Opérations Pétrolières de Côte d'Ivoire (PETROCI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9630121,
+          5.2835536
+        ]
+      },
+      "id": "node/3561513216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3561513217",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Station Shell Koumassi",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9614367,
+          5.2838761
+        ]
+      },
+      "id": "node/3561513217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3561513218",
+        "addr:city": "Koumassi",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Vinko Pétroleum",
+        "name": "Station Service Vinko Pétroleum Koumassi",
+        "operator": "Vinko Pétroleum SA Côte d'Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9584699,
+          5.2846034
+        ]
+      },
+      "id": "node/3561513218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3665961346",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.082797,
+          5.3478572
+        ]
+      },
+      "id": "node/3665961346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3703026226",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "OLA Energy",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "name": "OLA Energy",
+        "not:brand:wikidata": "Q7081491",
+        "operator": "OLA energy Côte d'Ivoire",
+        "payment:cash": "yes",
+        "roof:material": "concrete",
+        "roof:shape": "flat",
+        "shop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9714348,
+          5.2983695
+        ]
+      },
+      "id": "node/3703026226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3703143125",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Station Shell Boulevard du Cameroun",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9684294,
+          5.2963323
+        ]
+      },
+      "id": "node/3703143125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3703147626",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "E.Leclerc",
+        "brand:wikidata": "Q1273376",
+        "name": "Station Service Corlay Boulevard du Cameroun",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9682006,
+          5.296776
+        ]
+      },
+      "id": "node/3703147626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3936392909",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.049348,
+          5.322089
+        ]
+      },
+      "id": "node/3936392909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957006409",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0251619,
+          5.3630231
+        ]
+      },
+      "id": "node/3957006409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957006418",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Afriquia",
+        "brand:wikidata": "Q2829178",
+        "name": "Afriquia",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0950098,
+          5.366449
+        ]
+      },
+      "id": "node/3957006418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957006419",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "SODEPCI",
+        "name": "Sodepci",
+        "operator": "Société de Distribution de Produits Pétroliers en Côte D’Ivoire (SODEPCI)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0981219,
+          5.3665676
+        ]
+      },
+      "id": "node/3957006419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957504122",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Shell Bietry",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9819778,
+          5.2781323
+        ]
+      },
+      "id": "node/3957504122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957827436",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Shell Marcory Résidentiel",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9949011,
+          5.3079485
+        ]
+      },
+      "id": "node/3957827436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957827446",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total Marcory Résidentiel",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9926255,
+          5.3081032
+        ]
+      },
+      "id": "node/3957827446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957840080",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "name": "Corlay Marcory Résidentiel",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9913121,
+          5.3085714
+        ]
+      },
+      "id": "node/3957840080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3958359586",
+        "FIXME": "The “brand” tag and the “name” tag are inconsistent.",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Station Service Corlay",
+        "operator": "Libya Oil Côte D'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9882028,
+          5.3023676
+        ]
+      },
+      "id": "node/3958359586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3958359587",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Africa Petrolum",
+        "name": "Africa Petrolum",
+        "operator": "Africa Petrolum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9876168,
+          5.3025123
+        ]
+      },
+      "id": "node/3958359587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3959581555",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "name": "Station Service Corlay",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0095201,
+          5.3080378
+        ]
+      },
+      "id": "node/3959581555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3959581556",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total Ave Ouézzin Coulibaly",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0102013,
+          5.3017521
+        ]
+      },
+      "id": "node/3959581556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974043659",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue des Jardins",
+        "addr:suburb": "Deux Plateaux",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Corlay Rue des Jardins",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.991559,
+          5.3555916
+        ]
+      },
+      "id": "node/3974043659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3994192557",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Pétroci",
+        "name": "Pétroci",
+        "operator": "Société Nationale d'Opérations Pétrolières de Côte d'Ivoire (PETROCI)",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0405497,
+          5.3568373
+        ]
+      },
+      "id": "node/3994192557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3994192558",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0400316,
+          5.3537257
+        ]
+      },
+      "id": "node/3994192558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3994490472",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "E.Leclerc",
+        "brand:wikidata": "Q1273376",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Ola Energy Route de Dabou",
+        "name:ar": "أويليبيا",
+        "operator": "Ola Côte d’Ivoire",
+        "shop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0323992,
+          5.3591624
+        ]
+      },
+      "id": "node/3994490472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3994490473",
+        "addr:city": "Attécoubé",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "E.Leclerc",
+        "brand:wikidata": "Q1273376",
+        "name": "Station Service PetroIvoire Ananeraie",
+        "operator": "PetroIvoire S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0319975,
+          5.3587625
+        ]
+      },
+      "id": "node/3994490473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3994490474",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0303694,
+          5.3457611
+        ]
+      },
+      "id": "node/3994490474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4002098213",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Boulevard de France",
+        "addr:suburb": "Riviera 1",
+        "amenity": "fuel",
+        "brand": "Total",
+        "is_in": "Riviera 1;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Total Pont HKB-Riviéra",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9818299,
+          5.3305068
+        ]
+      },
+      "id": "node/4002098213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4003469079",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Ivoire Pétroleum",
+        "name": "Station Service Ivoire Pétroleum",
+        "operator": "Ivoire Pétroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9743353,
+          5.3846572
+        ]
+      },
+      "id": "node/4003469079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4006159275",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "name": "Ola Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.998664,
+          5.3444007
+        ]
+      },
+      "id": "node/4006159275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007396822",
+        "amenity": "fuel",
+        "fixme": "brand ?? / marque ??"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9340043,
+          5.2570492
+        ]
+      },
+      "id": "node/4007396822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4011577691",
+        "amenity": "fuel",
+        "brand": "E.Leclerc",
+        "brand:wikidata": "Q1273376",
+        "fuel:diesel": "yes",
+        "name": "Station Service Pétroci",
+        "operator": "Société Nationale d'Opérations Pétrolières de Côte d'Ivoire (PETROCI)",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.969168,
+          5.3019766
+        ]
+      },
+      "id": "node/4011577691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013672699",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0113556,
+          5.3107502
+        ]
+      },
+      "id": "node/4013672699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4018743745",
+        "amenity": "fuel",
+        "name": "Station Carrefour Koumassi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9714592,
+          5.2883751
+        ]
+      },
+      "id": "node/4018743745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4018743746",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Total Koumassi-VGE",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9708458,
+          5.2899769
+        ]
+      },
+      "id": "node/4018743746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4040244929",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "African Petroleum",
+        "fuel:diesel": "no",
+        "name": "Station Service African Petroleum",
+        "operator": "African Petroleum Corp Ltd",
+        "shop": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9840591,
+          5.3051037
+        ]
+      },
+      "id": "node/4040244929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046073156",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "fixme": "brand ?? / marque ??"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.026626,
+          5.3543907
+        ]
+      },
+      "id": "node/4046073156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046073279",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "First Pétroleum",
+        "name": "Station Service First Pétroleum",
+        "operator": "First Pétroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1051261,
+          5.3282219
+        ]
+      },
+      "id": "node/4046073279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046073280",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "source": "local knowledge + Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0910302,
+          5.3307259
+        ]
+      },
+      "id": "node/4046073280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046073281",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0631027,
+          5.3470581
+        ]
+      },
+      "id": "node/4046073281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046073282",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0225725,
+          5.34977
+        ]
+      },
+      "id": "node/4046073282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046073283",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0168661,
+          5.3522349
+        ]
+      },
+      "id": "node/4046073283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046073284",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0852433,
+          5.3564646
+        ]
+      },
+      "id": "node/4046073284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046808829",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Corlay",
+        "name": "Station Service Corlay",
+        "operator": "Corlay Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0914569,
+          5.3267987
+        ]
+      },
+      "id": "node/4046808829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046808830",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Pétro Ivoire",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Station Service Pétro Ivoire",
+        "operator": "Pétro Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.09061,
+          5.3351229
+        ]
+      },
+      "id": "node/4046808830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046808831",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell Yopougon Cité Verte",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.104225,
+          5.3300902
+        ]
+      },
+      "id": "node/4046808831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046808832",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell",
+        "operator": "Vivo Energy Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0899448,
+          5.3162963
+        ]
+      },
+      "id": "node/4046808832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046808834",
+        "addr:city": "Yopougon",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue Principale Gesco",
+        "amenity": "fuel",
+        "brand": "Vinko Pétroleum",
+        "building": "yes",
+        "is_in": "Yopougon;Abidjan;Côte d’Ivoire",
+        "name": "Station Service Vinko Pétroleum",
+        "operator": "Vinko Pétroleum SA Côte d'Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1007187,
+          5.3593661
+        ]
+      },
+      "id": "node/4046808834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046825531",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "building": "yes",
+        "name": "Station Service Total Boulevard du 7 Décembre",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9699368,
+          5.2885562
+        ]
+      },
+      "id": "node/4046825531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046906507",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "E.Leclerc",
+        "brand:wikidata": "Q1273376",
+        "name": "Station Service African Petroleum",
+        "operator": "African Petroleum Corp Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9733118,
+          5.2993575
+        ]
+      },
+      "id": "node/4046906507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4084447637",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell Autoroute du Nord",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1017669,
+          5.3678903
+        ]
+      },
+      "id": "node/4084447637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4098309977",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total Yop Banco sud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0605202,
+          5.3286994
+        ]
+      },
+      "id": "node/4098309977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4202118169",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total",
+        "operator": "Total Côte d'Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0706625,
+          5.3595715
+        ]
+      },
+      "id": "node/4202118169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4302854677",
+        "amenity": "fuel",
+        "name": "Pétro ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0623618,
+          5.3315343
+        ]
+      },
+      "id": "node/4302854677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4302854786",
+        "amenity": "fuel",
+        "name": "Star Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0625297,
+          5.3379912
+        ]
+      },
+      "id": "node/4302854786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4302855313",
+        "amenity": "fuel",
+        "name": "Petroci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0909813,
+          5.3340205
+        ]
+      },
+      "id": "node/4302855313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4302901354",
+        "amenity": "fuel",
+        "name": "Sogel-Ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0906622,
+          5.3307322
+        ]
+      },
+      "id": "node/4302901354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331384612",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0850866,
+          5.3352185
+        ]
+      },
+      "id": "node/4331384612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331386436",
+        "amenity": "fuel",
+        "name": "Petroci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0851081,
+          5.3356191
+        ]
+      },
+      "id": "node/4331386436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331386906",
+        "amenity": "fuel",
+        "name": "Petroci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.067039,
+          5.3581096
+        ]
+      },
+      "id": "node/4331386906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336178000",
+        "amenity": "fuel",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9779619,
+          5.2862466
+        ]
+      },
+      "id": "node/4336178000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336716993",
+        "amenity": "fuel",
+        "brand": "E.Leclerc",
+        "brand:wikidata": "Q1273376",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Station Service Oilibya Vridi",
+        "name:ar": "أويليبيا",
+        "operator": "Libya Oil Côte d’Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0004749,
+          5.2657734
+        ]
+      },
+      "id": "node/4336716993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4353166396",
+        "amenity": "fuel",
+        "brand": "TotalEnergies",
+        "brand:wikidata": "Q154037",
+        "name": "Total Energies Yop 1ᵉʳ pont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0663346,
+          5.3571955
+        ]
+      },
+      "id": "node/4353166396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359836690",
+        "amenity": "fuel",
+        "name": "Pétro-Ivoire",
+        "name:fr": "Pétro-Ivoire",
+        "opening_hours": "24/7",
+        "operator": "Pétro Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9470249,
+          5.3016992
+        ]
+      },
+      "id": "node/4359836690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359836691",
+        "amenity": "fuel",
+        "name": "Pétro-Ivoire Terminus 32",
+        "name:fr": "Station Service Pétro-Ivoire Terminus 32",
+        "opening_hours": "24/7",
+        "operator": "Pétro Ivoire SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9507256,
+          5.3140492
+        ]
+      },
+      "id": "node/4359836691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367565615",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_91": "yes",
+        "name": "Oryx",
+        "operator": "OOCI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0774679,
+          5.3742051
+        ]
+      },
+      "id": "node/4367565615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4411562365",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total Yop Palais de justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0746788,
+          5.3300834
+        ]
+      },
+      "id": "node/4411562365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4431341204",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0881739,
+          5.3554812
+        ]
+      },
+      "id": "node/4431341204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4485187400",
+        "amenity": "fuel",
+        "name": "Petro Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0301963,
+          5.4362579
+        ]
+      },
+      "id": "node/4485187400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4485201603",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0332171,
+          5.4379733
+        ]
+      },
+      "id": "node/4485201603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4485201604",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0330605,
+          5.4371738
+        ]
+      },
+      "id": "node/4485201604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4485202193",
+        "amenity": "fuel",
+        "name": "Oryx Energies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0348455,
+          5.4373127
+        ]
+      },
+      "id": "node/4485202193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4485222290",
+        "addr:street": "Boulevard Felix Houphouët Boigny",
+        "amenity": "fuel",
+        "name": "Corlay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0343945,
+          5.351279
+        ]
+      },
+      "id": "node/4485222290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4601848700",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell Boulevard de Marseille",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0102158,
+          5.3543036
+        ]
+      },
+      "id": "node/4601848700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4666231849",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2593272,
+          5.3242394
+        ]
+      },
+      "id": "node/4666231849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4724914438",
+        "amenity": "fuel",
+        "name": "Oryx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0188314,
+          5.4020147
+        ]
+      },
+      "id": "node/4724914438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4762029726",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Oilibya",
+        "name:ar": "أويليبيا",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0528097,
+          5.4704267
+        ]
+      },
+      "id": "node/4762029726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4957320645",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Ola",
+        "name:ar": "أويليبيا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9984067,
+          5.3681251
+        ]
+      },
+      "id": "node/4957320645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4985719138",
+        "amenity": "fuel",
+        "name": "Petro Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0873878,
+          5.3662129
+        ]
+      },
+      "id": "node/4985719138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4986517394",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0634353,
+          5.3529419
+        ]
+      },
+      "id": "node/4986517394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5205036162",
+        "amenity": "fuel",
+        "name": "Pétro Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8765897,
+          5.2369062
+        ]
+      },
+      "id": "node/5205036162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5239110824",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Oilibya",
+        "name:ar": "أويليبيا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0187332,
+          5.4035536
+        ]
+      },
+      "id": "node/5239110824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5239110825",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0168785,
+          5.4066538
+        ]
+      },
+      "id": "node/5239110825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5335018343",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0713009,
+          5.3609788
+        ]
+      },
+      "id": "node/5335018343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5383119069",
+        "amenity": "fuel",
+        "brand": "Petroci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0695655,
+          5.3321569
+        ]
+      },
+      "id": "node/5383119069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5390264549",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0461242,
+          5.3408812
+        ]
+      },
+      "id": "node/5390264549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5411062466",
+        "addr:city": "Le Plateau",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Station Service Total Nour-Al Hayat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0180591,
+          5.323175
+        ]
+      },
+      "id": "node/5411062466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5425049448",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0451682,
+          5.3219431
+        ]
+      },
+      "id": "node/5425049448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5425049449",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0439223,
+          5.3206505
+        ]
+      },
+      "id": "node/5425049449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5433614395",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total Yop Sideci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0772932,
+          5.3262375
+        ]
+      },
+      "id": "node/5433614395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5509267544",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9641977,
+          5.3586193
+        ]
+      },
+      "id": "node/5509267544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5587396122",
+        "amenity": "fuel",
+        "name": "Station service Corlay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0179948,
+          5.35436
+        ]
+      },
+      "id": "node/5587396122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5599203707",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Oilibya",
+        "name:ar": "أويليبيا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0555508,
+          5.4435786
+        ]
+      },
+      "id": "node/5599203707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5599203845",
+        "amenity": "fuel",
+        "name": "Star Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0671311,
+          5.4432609
+        ]
+      },
+      "id": "node/5599203845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5756085714",
+        "amenity": "fuel",
+        "brand": "Afriquia",
+        "brand:wikidata": "Q2829178",
+        "fuel:diesel": "yes",
+        "fuel:essence": "yes",
+        "name": "Afriquia",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9141597,
+          5.374638
+        ]
+      },
+      "id": "node/5756085714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5822545654",
+        "amenity": "fuel",
+        "name": "Pétro Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0875111,
+          5.3241988
+        ]
+      },
+      "id": "node/5822545654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5868580561",
+        "amenity": "fuel",
+        "name": "Delta-Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0967548,
+          5.3188827
+        ]
+      },
+      "id": "node/5868580561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5922707497",
+        "amenity": "fuel",
+        "brand": "Fluel Save",
+        "fuel:diesel": "yes",
+        "name": "Station Fluel Save",
+        "operator": "SHELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0619078,
+          5.3409939
+        ]
+      },
+      "id": "node/5922707497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5922803733",
+        "amenity": "fuel",
+        "brand": "POWEX",
+        "fuel:diesel": "yes",
+        "name": "Station Powex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0585135,
+          5.3407295
+        ]
+      },
+      "id": "node/5922803733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5923974985",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0832374,
+          5.3497018
+        ]
+      },
+      "id": "node/5923974985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924096795",
+        "amenity": "fuel",
+        "brand": "Station service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0011679,
+          5.3633614
+        ]
+      },
+      "id": "node/5924096795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5929341610",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0829115,
+          5.3476903
+        ]
+      },
+      "id": "node/5929341610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5931332781",
+        "amenity": "fuel",
+        "brand": "OLA Energy",
+        "name": "Ola Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0808265,
+          5.3628728
+        ]
+      },
+      "id": "node/5931332781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5936536242",
+        "amenity": "fuel",
+        "brand": "Ivoire Win"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0529908,
+          5.3327044
+        ]
+      },
+      "id": "node/5936536242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5937206561",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0953731,
+          5.343806
+        ]
+      },
+      "id": "node/5937206561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5939156958",
+        "amenity": "fuel",
+        "name": "Dépot de Gaz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0958458,
+          5.3531275
+        ]
+      },
+      "id": "node/5939156958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5939157168",
+        "amenity": "fuel",
+        "name": "Dépot de Gaz",
+        "shop": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0990226,
+          5.3505093
+        ]
+      },
+      "id": "node/5939157168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5957761537",
+        "amenity": "fuel",
+        "brand": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9542815,
+          5.2955058
+        ]
+      },
+      "id": "node/5957761537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5963980305",
+        "amenity": "fuel",
+        "name": "Station Delta Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9635204,
+          5.3019263
+        ]
+      },
+      "id": "node/5963980305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5964014403",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0683371,
+          5.439214
+        ]
+      },
+      "id": "node/5964014403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5966515099",
+        "amenity": "fuel",
+        "brand": "Station Sogelcig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0705459,
+          5.4482476
+        ]
+      },
+      "id": "node/5966515099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5966690729",
+        "amenity": "fuel",
+        "brand": "Station Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.046052,
+          5.4404776
+        ]
+      },
+      "id": "node/5966690729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5967701095",
+        "amenity": "fuel",
+        "brand": "Station UDP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0545673,
+          5.4522808
+        ]
+      },
+      "id": "node/5967701095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5969138187",
+        "amenity": "fuel",
+        "brand": "Petro-Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.029842,
+          5.4361093
+        ]
+      },
+      "id": "node/5969138187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5970172294",
+        "amenity": "fuel",
+        "brand": "Petroci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0540315,
+          5.4575608
+        ]
+      },
+      "id": "node/5970172294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5974751680",
+        "amenity": "fuel",
+        "name": "Station Oryx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0347035,
+          5.437447
+        ]
+      },
+      "id": "node/5974751680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5974751681",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "StationShell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0332913,
+          5.4370945
+        ]
+      },
+      "id": "node/5974751681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6281037704",
+        "addr:street": "Autoroute d'Abobo",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "opening_hours": "Mo-Su 07:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0209573,
+          5.3985859
+        ]
+      },
+      "id": "node/6281037704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6454360029",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Station Service Shell Boulevard du 4 Novembre",
+        "operator": "Vivo Energy Côte d'Ivoire SA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0109928,
+          5.3476128
+        ]
+      },
+      "id": "node/6454360029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6480210128",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0522125,
+          5.4499837
+        ]
+      },
+      "id": "node/6480210128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6480212956",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "name": "Oil lybia",
+        "name:ar": "أويليبيا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0183471,
+          5.4042031
+        ]
+      },
+      "id": "node/6480212956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6480227424",
+        "amenity": "fuel",
+        "name": "Petro Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0515236,
+          5.4941817
+        ]
+      },
+      "id": "node/6480227424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6517790797",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0260293,
+          5.3390488
+        ]
+      },
+      "id": "node/6517790797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6574447287",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Oilibya",
+        "name:ar": "أويليبيا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0450384,
+          5.3468058
+        ]
+      },
+      "id": "node/6574447287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6575382012",
+        "amenity": "fuel",
+        "name": "First Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9103704,
+          5.3696772
+        ]
+      },
+      "id": "node/6575382012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6587390631",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "amenity": "fuel",
+        "name": "Ivoire Win Biafra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0011839,
+          5.3094623
+        ]
+      },
+      "id": "node/6587390631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6786686554",
+        "amenity": "fuel",
+        "name": "Afriqoil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0701668,
+          5.4282613
+        ]
+      },
+      "id": "node/6786686554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6900317092",
+        "amenity": "fuel",
+        "name": "Petro Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9256806,
+          5.3733176
+        ]
+      },
+      "id": "node/6900317092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915125640",
+        "amenity": "fuel",
+        "brand": "Oilibya",
+        "brand:wikidata": "Q7081491",
+        "brand:wikipedia": "en:Oilibya",
+        "name": "Oilibya",
+        "name:ar": "أويليبيا"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0238438,
+          5.3269154
+        ]
+      },
+      "id": "node/6915125640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6990029329",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0907672,
+          5.3561461
+        ]
+      },
+      "id": "node/6990029329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7013423839",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0297324,
+          5.3623682
+        ]
+      },
+      "id": "node/7013423839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7016452357",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0296143,
+          5.3625038
+        ]
+      },
+      "id": "node/7016452357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7061678886",
+        "addr:street": "Autoroute du Nord",
+        "amenity": "fuel",
+        "name": "Ivoire Win"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1448797,
+          5.3977813
+        ]
+      },
+      "id": "node/7061678886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7110178685",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "TOTAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0205341,
+          5.3964977
+        ]
+      },
+      "id": "node/7110178685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7175317076",
+        "amenity": "fuel",
+        "brand": "Petroci",
+        "name": "Petroci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0874385,
+          5.3237882
+        ]
+      },
+      "id": "node/7175317076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385651216",
+        "amenity": "fuel",
+        "name": "Star Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.986908,
+          5.4086598
+        ]
+      },
+      "id": "node/7385651216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7717415264",
+        "addr:street": "Rue O130",
+        "amenity": "fuel",
+        "brand": "Afriqoil",
+        "name": "Afriqoil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0608759,
+          5.3288613
+        ]
+      },
+      "id": "node/7717415264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8584551427",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "fid": "636",
+        "name": "Station Total",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "06/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0180413,
+          5.4383195
+        ]
+      },
+      "id": "node/8584551427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8585825826",
+        "amenity": "fuel",
+        "fid": "308",
+        "name": "Station Ivoirelub",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "02/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0133942,
+          5.4500696
+        ]
+      },
+      "id": "node/8585825826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8586878083",
+        "amenity": "fuel",
+        "fid": "404",
+        "name": "Station Petroleum",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "26/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9776404,
+          5.3975164
+        ]
+      },
+      "id": "node/8586878083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8588138100",
+        "addr:city": "Cocody",
+        "addr:country": "CI",
+        "addr:state": "Abidjan",
+        "addr:street": "Rue I143",
+        "addr:suburb": "Riviera Palmeraie",
+        "amenity": "fuel",
+        "brand": "Pride Petroleum",
+        "is_in": "Riviéra Palmeraie;Cocody;Abidjan;Côte d'Ivoire",
+        "name": "Station Service Pride Petroleum Riviera-Palmeraie",
+        "operator": "Pride Petroleum SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9593153,
+          5.3630023
+        ]
+      },
+      "id": "node/8588138100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8592208407",
+        "amenity": "fuel",
+        "fid": "479",
+        "name": "Petro Ivoire",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "01/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9551389,
+          5.3918629
+        ]
+      },
+      "id": "node/8592208407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8592208408",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "fid": "487",
+        "name": "Total",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "01/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9551711,
+          5.3892041
+        ]
+      },
+      "id": "node/8592208408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8592240551",
+        "amenity": "fuel",
+        "fid": "162",
+        "name": "OLA ENERGY",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "26/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9443325,
+          5.3677384
+        ]
+      },
+      "id": "node/8592240551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8596279312",
+        "amenity": "fuel",
+        "fid": "581",
+        "name": "Station En Construction",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "03/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0010318,
+          5.4156858
+        ]
+      },
+      "id": "node/8596279312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8596287038",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "fid": "305",
+        "name": "Station Total",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "26/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9781715,
+          5.3998866
+        ]
+      },
+      "id": "node/8596287038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8596317427",
+        "amenity": "fuel",
+        "fid": "404",
+        "name": "Station Star Oil",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "02/03/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0200629,
+          5.432269
+        ]
+      },
+      "id": "node/8596317427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8691889078",
+        "addr:street": "Boulevard du Cameroun",
+        "amenity": "fuel",
+        "brand": "Afriquia",
+        "brand:wikidata": "Q2829178",
+        "brand:wikipedia": "en:Akwa Group",
+        "name": "Afriquia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9623862,
+          5.2971023
+        ]
+      },
+      "id": "node/8691889078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8809189166",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0882814,
+          5.3123449
+        ]
+      },
+      "id": "node/8809189166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8838500288",
+        "amenity": "fuel",
+        "brand": "Pétro Ivoire",
+        "name": "Petro Ivoire",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "26/02/2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9875443,
+          5.4041988
+        ]
+      },
+      "id": "node/8838500288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8841921618",
+        "amenity": "fuel",
+        "fid": "1069",
+        "name": "Station star oil",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "2021/03/09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9888268,
+          5.4334768
+        ]
+      },
+      "id": "node/8841921618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8842843300",
+        "amenity": "fuel",
+        "brand": "Station PetroIvoire",
+        "project:opencities_abidjan": "yes",
+        "source": "survey",
+        "source:date": "2021/03/05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9605324,
+          5.3655132
+        ]
+      },
+      "id": "node/8842843300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8905685128",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8753981,
+          5.2363218
+        ]
+      },
+      "id": "node/8905685128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10840041006",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Station Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0058653,
+          5.4116969
+        ]
+      },
+      "id": "node/10840041006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11081930919",
+        "amenity": "fuel",
+        "name": "Ivoire Win"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9868649,
+          5.3542458
+        ]
+      },
+      "id": "node/11081930919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11086744200",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9753749,
+          5.2729524
+        ]
+      },
+      "id": "node/11086744200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11135813275",
+        "amenity": "fuel",
+        "name": "Ola Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.845906,
+          5.2254057
+        ]
+      },
+      "id": "node/11135813275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11181698868",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0331885,
+          5.4376235
+        ]
+      },
+      "id": "node/11181698868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11183385645",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.051575,
+          5.4954344
+        ]
+      },
+      "id": "node/11183385645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11183385647",
+        "amenity": "fuel",
+        "name": "Station Ola",
+        "operator": "OLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0515111,
+          5.4957317
+        ]
+      },
+      "id": "node/11183385647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11183385648",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total",
+        "operator": "Total"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.051818,
+          5.4939889
+        ]
+      },
+      "id": "node/11183385648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11195624115",
+        "amenity": "fuel",
+        "brand": "Star Oil",
+        "name": "Star Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0602127,
+          5.5128253
+        ]
+      },
+      "id": "node/11195624115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11243354898",
+        "amenity": "fuel",
+        "name": "Petro Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0249667,
+          5.3792686
+        ]
+      },
+      "id": "node/11243354898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11243354904",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0279909,
+          5.374061
+        ]
+      },
+      "id": "node/11243354904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11248176679",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "operator": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0381269,
+          5.3609191
+        ]
+      },
+      "id": "node/11248176679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11262735968",
+        "amenity": "fuel",
+        "name": "Petro Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9661872,
+          5.3992338
+        ]
+      },
+      "id": "node/11262735968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11277887686",
+        "amenity": "fuel",
+        "brand": "Ivory win",
+        "name": "Ivoire Win",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1779653,
+          5.4482156
+        ]
+      },
+      "id": "node/11277887686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11277897472",
+        "amenity": "fuel",
+        "name": "Sara Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1430623,
+          5.3968968
+        ]
+      },
+      "id": "node/11277897472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11524688770",
+        "amenity": "fuel",
+        "name": "Oryx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.932764,
+          5.3723801
+        ]
+      },
+      "id": "node/11524688770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11670590255",
+        "amenity": "fuel",
+        "name": "Ola",
+        "name:fr": "Ola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0600361,
+          5.3589321
+        ]
+      },
+      "id": "node/11670590255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11670603187",
+        "amenity": "fuel",
+        "name": "Ola",
+        "name:fr": "Ola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.076885,
+          5.3602952
+        ]
+      },
+      "id": "node/11670603187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11795052418",
+        "amenity": "fuel",
+        "name": "Afriqoil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0847323,
+          5.3777577
+        ]
+      },
+      "id": "node/11795052418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11795356013",
+        "amenity": "fuel",
+        "name": "Petroci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0933822,
+          5.354997
+        ]
+      },
+      "id": "node/11795356013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11808391766",
+        "amenity": "fuel",
+        "name": "Pétro Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9509246,
+          5.3290759
+        ]
+      },
+      "id": "node/11808391766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11866244469",
+        "amenity": "fuel",
+        "name": "SIP",
+        "operator": "Société Ivoirienne de Pétrole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0043345,
+          5.2785236
+        ]
+      },
+      "id": "node/11866244469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11904808382",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Total"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9631523,
+          5.3424935
+        ]
+      },
+      "id": "node/11904808382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12059902041",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9873472,
+          5.3847732
+        ]
+      },
+      "id": "node/12059902041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12063738451",
+        "amenity": "fuel",
+        "brand": "Afriquia",
+        "name": "Afriquia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8605268,
+          5.2312673
+        ]
+      },
+      "id": "node/12063738451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12063738457",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8290486,
+          5.2235537
+        ]
+      },
+      "id": "node/12063738457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064705463",
+        "amenity": "fuel",
+        "name": "Petro Ivoire",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8415843,
+          5.2243046
+        ]
+      },
+      "id": "node/12064705463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12122258220",
+        "amenity": "fuel",
+        "name": "Petro Ivoire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9403387,
+          5.397316
+        ]
+      },
+      "id": "node/12122258220"
+    }
+  ]
+}
