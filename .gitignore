@@ -1,5 +1,8 @@
 # CUSTOM
 app/popgis.bat
+.DS_Store
+
+app/.venv/
 
 
 
