@@ -24,4 +24,8 @@ python -c "import sys;print(sys.executable)"
 pip install flask
 pip freeze > requirements.txt
 flask --app app run (flask run)
+pip install flask-bootstrap
 ```
+
+cd app
+flask run --debug

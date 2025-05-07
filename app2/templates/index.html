@@ -1,0 +1,52 @@
+{% extends "./base.html" %}
+{% block title %}Geocarbur | Accueil{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+  <h1>Trouvez votre station de carburant à Abidjan.</h1>
+  <div class="text-[20px]">
+    <p>
+      Geocabur est un projet de cours de Webmapping développé avec les étudiants de L3 à l'EGT en 2025.
+      <br>Bon travail à tout le monde.
+    </p>
+    <p>
+      Etudiants ayants participé à ce projet :
+      <ul>
+        <li>
+          <a href="https://github.com/mickael-d">Bamba</a>
+        </li>
+        <li>
+          <a href="https://github.com/mickael-d">Mian</a>
+        </li>
+        <li>
+          <a href="https://github.com/mickael-d">Apiah</a>
+        </li>
+        <li>
+          <a href="https://github.com/mickael-d">Assouan</a>
+        </li>
+        <li>
+          <a href="https://github.com/mickael-d">N'Goran</a>
+        </li>
+        <li>
+          <a href="https://github.com/mickael-d">Seka</a>
+        </li>
+        <li>
+          <a href="https://github.com/mickael-d">Calixte</a>
+        </li>
+        <li>
+          <a href="https://github.com/mickael-d">Amani</a>
+        </li>
+      </ul>
+    </p>
+    <p>
+      Professeur :
+      <a href="https://github.com/mickael-d">Krouma</a>.
+    </p>
+  </div>
+  <form method="POST" action="/map">
+    <button type="submit" class="btn btn-primary btn-custom">
+      Cartographie
+    </button>
+  </form>
+</div>
+{% endblock %}
